@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import datetime
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+it gspread
+auth2client.service_account import ServiceAccountCredentials
 
 
 CURRENT_DATE = datetime.datetime.now()
